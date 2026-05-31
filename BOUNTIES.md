@@ -11,7 +11,187 @@ For the rules governing bounties, see [`BOUNTY_GUIDELINES.md`](./BOUNTY_GUIDELIN
 
 ## Open Bounties
 
-Add active bounties here.
+## Bounty: 1 Spelunking, 0 Amulet, 5-Land Scapeshift
+
+### Status
+
+Open
+
+### Offered By
+
+@aljce
+
+### Reward
+
+1,000 USD for a valid accepted solution.
+
+### Starting Conditions
+
+* Battlefield:
+
+  * 1 Spelunking.
+  * 0 Amulet of Vigor.
+  * 5 lands:
+
+    * 1 Simic Growth Chamber.
+    * 4 Forest.
+* Hand:
+
+  * Scapeshift.
+* Graveyard:
+
+  * Empty.
+* Floating mana:
+
+  * 1, after casting Scapeshift.
+* Land drop available:
+
+  * No.
+* Other resources:
+
+  * None.
+
+### Default Assumptions
+
+This bounty uses the default bounty assumptions from [`BOUNTY_GUIDELINES.md`](./BOUNTY_GUIDELINES.md).
+
+### Special Assumptions
+
+* The starting lands before casting Scapeshift are exactly Simic Growth Chamber and four Forests.
+* The line begins with exactly 1 floating mana.
+
+### Goal
+
+Find a line that establishes a deterministic Analyst loop or win from the stated position.
+
+### Deckbuilding Restriction
+
+The submitted line must be legal using the following list, with **at most two cards changed** from the list:
+
+```txt
+1 Aftermath Analyst
+4 Amulet of Vigor
+4 Arboreal Grazer
+3 Boseiju, Who Endures
+3 Crumbling Vestige
+1 Cultivator Colossus
+1 Dryad Arbor
+1 Echoing Deeps
+3 Forest
+3 Green Sun's Zenith
+4 Gruul Turf
+1 Hanweir Battlements
+3 Malevolent Rumble
+1 Mirrorpool
+1 Otawara, Soaring City
+3 Primeval Titan
+3 Scapeshift
+1 Shifting Woodland
+3 Simic Growth Chamber
+4 Spelunking
+2 Summoner's Pact
+3 The Mycosynth Gardens
+1 Tolaria West
+1 Urza's Cave
+4 Urza's Saga
+1 Vexing Bauble
+1 Zuran Orb
+```
+
+### Notes
+
+* The changed card(s) should be explicitly identified in the submitted solution.
+
+## Bounty: 2 Amulet Titan Kill That Does Not Die to Spelunking
+
+### Status
+
+Open
+
+### Offered By
+
+@aljce
+
+### Reward
+
+1,000 USD for a valid accepted solution.
+
+### Starting Conditions
+
+* Battlefield:
+
+  * 2 Amulet of Vigor.
+  * Spelunking.
+* Hand:
+
+  * Primeval Titan.
+* Graveyard:
+
+  * Empty.
+* Floating mana:
+
+  * 0, after casting Titan.
+* Land drop available:
+
+  * No.
+* Other resources:
+
+  * None.
+
+### Default Assumptions
+
+This bounty uses the default bounty assumptions from [`BOUNTY_GUIDELINES.md`](./BOUNTY_GUIDELINES.md), unless explicitly overridden here.
+
+### Special Assumptions
+
+* The line starts with 2 Amulet of Vigor and Primeval Titan as the only relevant resources.
+* The line must produce a deterministic kill.
+* The line must not “die to Spelunking.”
+
+### Goal
+
+Find a deterministic Primeval Titan line from the stated position that kills the opponent and does not fail in the presence of Spelunking.
+
+For this bounty, a line “dies to Spelunking” if it relies on lands entering tapped in a way that would stop working when Spelunking causes those lands to enter untapped instead.
+
+### Deckbuilding Restriction
+
+The submitted line must be legal using the following list, with **at most two cards changed** from the list:
+
+```txt
+1 Aftermath Analyst
+4 Amulet of Vigor
+4 Arboreal Grazer
+3 Boseiju, Who Endures
+3 Crumbling Vestige
+1 Cultivator Colossus
+1 Dryad Arbor
+1 Echoing Deeps
+3 Forest
+3 Green Sun's Zenith
+4 Gruul Turf
+1 Hanweir Battlements
+3 Malevolent Rumble
+1 Mirrorpool
+1 Otawara, Soaring City
+3 Primeval Titan
+3 Scapeshift
+1 Shifting Woodland
+3 Simic Growth Chamber
+4 Spelunking
+2 Summoner's Pact
+3 The Mycosynth Gardens
+1 Tolaria West
+1 Urza's Cave
+4 Urza's Saga
+1 Vexing Bauble
+1 Zuran Orb
+```
+
+### Notes
+
+* The changed card(s) should be explicitly identified in the submitted solution.
+* The solution should explicitly explain why the line does not die to Spelunking.
 
 ## Resolved Bounties
 
