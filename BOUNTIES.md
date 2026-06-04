@@ -23,7 +23,7 @@ Open
 
 ### Reward
 
-1,000 USD for a valid accepted solution.
+500 USD for a valid accepted solution.
 
 ### Starting Conditions
 
@@ -66,7 +66,7 @@ Find a line that establishes a deterministic Analyst loop or win from the stated
 
 ### Deckbuilding Restriction
 
-The submitted line must be legal using the following list, with **at most two cards changed** from the list:
+The submitted line must be legal using the following list, with **at most three cards changed** from the list:
 
 ```txt
 1 Aftermath Analyst
@@ -114,7 +114,7 @@ Open
 
 ### Reward
 
-1,000 USD for a valid accepted solution.
+500 USD for a valid accepted solution.
 
 ### Starting Conditions
 
