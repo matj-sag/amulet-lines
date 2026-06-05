@@ -249,7 +249,7 @@ The same up to 9.
 14. Cast and crack analyst, returning mirrorpool, tolaria west, a bounceland, urza's cave, and 2 echoing deeps each copying urza's cave.
 15. Float 2+3+6+1 mana leaving mirrorpool and 2 caves untapped, bouncing tolaria west. Activate mirrorpool to copy titan (7 mana)
 16. Get 2 crumbling vestige floating 8 mana = 15 mana floating
-17. Crack 2 caves, one for shifting woodlands and 1 for urza's saga floating 2 mana = (15-6+2 = 11 mana). Transmute tolaria west for zuran orb and cast it: 8 mana
+17. Crack 2 caves, one for shifting woodlands and 1 for urza's saga (1 untap each) floating 2 mana = (15-6+2 = 11 mana). Transmute tolaria west for zuran orb and cast it: 8 mana
 18. sac all your lands (including saga to get delirium), activate shifting woodlands for 4+4 = 8 to loop.
 
 #### Result
@@ -260,7 +260,7 @@ Alternative A/B: win with analyst loop (technically next turn, but after bouncin
 
 #### Notes
 
-All lands have 'enters tapped' on them, so all untap twice even under spelunking, with the exception of cave and woodlands (which are only counted for 1 each)
+Lands that don't have 'enter tapped' on them marked as only untapping once.
 
 Alternative B is only +2 cards (Kavaron and another deeps)
 
