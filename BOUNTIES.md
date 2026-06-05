@@ -216,6 +216,8 @@ Proposed solution by Matt Johnson
   - 3 any colour bounce, 1 red bounce
   - Oran Rief the vastwood (additional card 2)
   - Kavaron, Memorial World (additional card 3)
+- Alternative:
+  - A third deeps instead of the Oran Rief
 
 #### Line
 
@@ -231,9 +233,15 @@ Proposed solution by Matt Johnson
 10. First one get Oran Rief (2 untaps) and anything, tap Oran Rief twice
 11. Titans are now both 9/8, the token is a 3/2, for 21 damage
 
+#### Alternative
+
+The same up to 9, then the standard titan + 2 amulet line after attacks, which needs the third deeps, but not the Oran Rief.
+
 #### Result
 
 Attack for 21
+
+Alternative: win with analyst loop (technically next turn, but after bouncing all their permanents and destroying all their lands)
 
 #### Notes
 
