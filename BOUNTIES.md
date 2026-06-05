@@ -193,6 +193,56 @@ The submitted line must be legal using the following list, with **at most two ca
 * The changed card(s) should be explicitly identified in the submitted solution.
 * The solution should explicitly explain why the line does not die to Spelunking.
 
+### Proposed solution
+
+Proposed solution by Matt Johnson
+
+#### Starting Conditions
+
+- Battlefield:
+  - 2 Amulet of Vigor.
+  - Spelunking (optional)
+- Hand:
+  - Primeval Titan.
+- Graveyard:
+  - Empty.
+- Floating mana:
+  - 0, after casting Titan.
+- Land drop available:
+  - No.
+- Relevant library contents:
+  - Mirrorpool
+  - Echoing deeps x2 (additional card 1)
+  - Vesuva (additional card 2)
+  - 3 any colour bounce, 1 red bounce
+  - Oran Rief the vastwood (additional card 3)
+  - Kavaron, Memorial World (additional card 4)
+
+#### Line
+
+1. Cast titan get Mirropool+ Bounce (1 titan)
+2. Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (2 titans)
+3. Get Echoing Deeps+ bounce
+4. Copy mirrorpool, Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (3 titans)
+5. Get Echoing Deeps+ bounce
+6. Copy mirrorpool, Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (4 titans)
+7. Get Kavaron, Memorial World+ red bounce
+8. Float Rx(xx), bounce the bounce (stack empty). Station Kavaron with 2 titans (12), then activae Kavaron to give the remaining 2 haste
+9. Attack, get 2 titan triggers
+10. First one get Oran Rief (2 untaps) and anything, tap Oran Rief twice
+11. Second one get Vesuva and anything, copy Oran Rief (2 untaps) and tap it twice
+12. Titans are now both 10/10 for 20 damage.
+
+#### Result
+
+Attack for 20
+
+#### Notes
+
+All lands have 'enters tapped' on them, so all untap twice even under spelunking.
+
+This line is +4 cards, but only because the original list doesn't have vesuva. Most lists will have 1 vesuva
+
 ## Resolved Bounties
 
 Move solved bounties here once a valid line has been found and checked.
