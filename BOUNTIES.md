@@ -214,7 +214,7 @@ Proposed solution by Matt Johnson
   - Mirrorpool
   - Echoing deeps x2 (additional card 1)
   - 3 any colour bounce, 1 red bounce
-  - Oran Rief the vastwood (additional card 2)
+  - Oran Rief the vastwood (additional card 2 - not in the alternative B line)
   - Kavaron, Memorial World (additional card 3)
 - Alternative:
   - A third deeps instead of the Oran Rief
@@ -227,21 +227,32 @@ Proposed solution by Matt Johnson
 4. Copy mirrorpool, Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (3 titans)
 5. Get Echoing Deeps+ bounce
 6. Copy mirrorpool, Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (4 titans)
-7. Get Kavaron, Memorial World+ red bounce
-8. Float Rx(xx), bounce the bounce (stack empty). Station Kavaron with 2 titans (12), then activae Kavaron to give the remaining 2 haste, +1/+0 and create a 3/2 haste
+7. Get Kavaron, Memorial World+ Crumbling Vestige
+8. Float RRx, leaving Vestige untapped. Station Kavaron with 2 titans (12), then activae Kavaron, sacrificing itself to give the remaining 2 haste, +1/+0 and create a 3/2 haste
 9. Attack, get 2 titan triggers
 10. First one get Oran Rief (2 untaps) and anything, tap Oran Rief twice
 11. Titans are now both 9/8, the token is a 3/2, for 21 damage
 
-#### Alternative
+#### Alternative A
 
 The same up to 9, then the standard titan + 2 amulet line after attacks, which needs the third deeps, but not the Oran Rief.
+
+#### Alternative B [credit to Epreez]
+
+The same up to 9.
+10. Get Otawara and The Mycosynth Gardens (one untap each), activate Gardens with Otawara to copy amulet
+11. Get Urza's Cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara, leaving SGC, Cave and the Vestige untapped
+12. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
+13. Get Twest + bounce, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
+14. Cast and crack analyst, returning mirrorpool, tolaria west, a bounceland, urza's cave, and 2 echoing deeps each copying urza's cave.
+15. Float 16 mana, leaving all 3 urza's cave untapped and bouncing tolaria west. Transmute tolaria west for zuran orb and cast it, 13 mana.
+16. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 7 mana. Float 2 mana from these lands, sac them to zuran orb and start looping.
 
 #### Result
 
 Attack for 21
 
-Alternative: win with analyst loop (technically next turn, but after bouncing all their permanents and destroying all their lands)
+Alternative A/B: win with analyst loop (technically next turn, but after bouncing all their permanents and destroying all their lands)
 
 #### Notes
 
