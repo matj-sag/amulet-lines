@@ -229,7 +229,7 @@ Proposed solution by Matt Johnson
 8. Float Rx(xx), bounce the bounce (stack empty). Station Kavaron with 2 titans (12), then activae Kavaron to give the remaining 2 haste, +1/+0 and create a 3/2 haste
 9. Attack, get 2 titan triggers
 10. First one get Oran Rief (2 untaps) and anything, tap Oran Rief twice
-11. Titans are now both 8/8, the token is a 5/4, for 21 damage
+11. Titans are now both 9/8, the token is a 3/2, for 21 damage
 
 #### Result
 
