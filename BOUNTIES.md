@@ -213,10 +213,9 @@ Proposed solution by Matt Johnson
 - Relevant library contents:
   - Mirrorpool
   - Echoing deeps x2 (additional card 1)
-  - Vesuva (additional card 2)
   - 3 any colour bounce, 1 red bounce
-  - Oran Rief the vastwood (additional card 3)
-  - Kavaron, Memorial World (additional card 4)
+  - Oran Rief the vastwood (additional card 2)
+  - Kavaron, Memorial World (additional card 3)
 
 #### Line
 
@@ -227,15 +226,14 @@ Proposed solution by Matt Johnson
 5. Get Echoing Deeps+ bounce
 6. Copy mirrorpool, Float Cxxxx, bounce the bounce, activate mirrorpool to copy titan (4 titans)
 7. Get Kavaron, Memorial World+ red bounce
-8. Float Rx(xx), bounce the bounce (stack empty). Station Kavaron with 2 titans (12), then activae Kavaron to give the remaining 2 haste
+8. Float Rx(xx), bounce the bounce (stack empty). Station Kavaron with 2 titans (12), then activae Kavaron to give the remaining 2 haste, +1/+0 and create a 3/2 haste
 9. Attack, get 2 titan triggers
 10. First one get Oran Rief (2 untaps) and anything, tap Oran Rief twice
-11. Second one get Vesuva and anything, copy Oran Rief (2 untaps) and tap it twice
-12. Titans are now both 10/10 for 20 damage.
+11. Titans are now both 8/8, the token is a 5/4, for 21 damage
 
 #### Result
 
-Attack for 20
+Attack for 21
 
 #### Notes
 
